@@ -57,7 +57,3 @@ python combine.py ../Input/video.mp4 ../Output/output_video.mp4 ../Output/event_
 
 - Ensure the input video is less than 100 MB if uploading to GitHub. Use Git Large File Storage (LFS) for larger files.
 - The system's efficiency depends on the quality of the grid detection and the accuracy of the YOLOv5 model.
-
----
-
-Feel free to modify and expand this README as per your project's needs.
